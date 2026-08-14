@@ -64,6 +64,6 @@ sich in einen bestehenden Frontend-Build ein, statt ihn zu ersetzen.
 <div align="center">
   <p>
     <a href="https://waterproof.agency/">waterproof.agency</a> ·
-    <a href="mailto:dev@waterproof.agency">dev@waterproof.agency</a>
+    <a href="mailto:hallo@waterproof.agency">hallo@waterproof.agency</a>
   </p>
 </div>
