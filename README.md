@@ -1,6 +1,6 @@
 # Dennis Hüttner
 
-**Neos CMS and TYPO3 developer, Kempten im Allgäu, Germany.**
+**Neos CMS and TYPO3 developer, Baienfurt near Ravensburg, Germany.**
 I build content management systems for utilities, industry and public sector
 clients, and release the reusable parts as open source.
 
@@ -43,7 +43,7 @@ with the command and its output, not with a promise.
 
 ## 🇩🇪 Auf Deutsch
 
-**Neos CMS und TYPO3 Entwicklung aus dem Allgäu.**
+**Neos CMS und TYPO3 Entwicklung aus Baienfurt bei Ravensburg.**
 Ich baue Redaktionssysteme für Stadtwerke, Industrie und öffentliche Auftraggeber.
 Was sich wiederverwenden lässt, veröffentliche ich als Open Source.
 
