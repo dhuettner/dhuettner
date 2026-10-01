@@ -4,7 +4,7 @@
 I build content management systems for utilities, industry and public sector
 clients, and release the reusable parts as open source.
 
-Agency: **[waterproof.agency](https://waterproof.agency/)**
+Agency: **[waterproof-web-wizard.com](https://waterproof-web-wizard.com/)**
 
 <div align="center">
   <a href="#open-source-packages">Packages</a> · <a href="#what-i-work-with">Stack</a> · <a href="#deutsch">Deutsch</a>
@@ -47,7 +47,7 @@ with the command and its output, not with a promise.
 Ich baue Redaktionssysteme für Stadtwerke, Industrie und öffentliche Auftraggeber.
 Was sich wiederverwenden lässt, veröffentliche ich als Open Source.
 
-Agentur: **[waterproof.agency](https://waterproof.agency/)**
+Agentur: **[waterproof-web-wizard.de](https://waterproof-web-wizard.de/)**
 
 | Paket | Für | Zweck |
 |---|---|---|
@@ -63,7 +63,8 @@ sich in einen bestehenden Frontend-Build ein, statt ihn zu ersetzen.
 
 <div align="center">
   <p>
-    <a href="https://waterproof.agency/">waterproof.agency</a> ·
+    <a href="https://waterproof-web-wizard.de/">waterproof-web-wizard.de</a> ·
+    <a href="https://waterproof-web-wizard.com/">waterproof-web-wizard.com</a> ·
     <a href="mailto:hallo@waterproof.agency">hallo@waterproof.agency</a>
   </p>
 </div>
