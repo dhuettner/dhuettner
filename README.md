@@ -16,10 +16,10 @@ Agency: **[waterproof-web-wizard.com](https://waterproof-web-wizard.com/)**
 
 | Package | For | What it does |
 |---|---|---|
-| [Waterproof.News](https://github.com/dhuettner/neos-news) | Neos CMS 9 | News and blog: articles as document nodes, categories via taxonomy, Atom and RSS feed, JSON-LD |
-| [Waterproof.Team](https://github.com/dhuettner/neos-team) | Neos CMS 9 | Team and people management with central maintenance and optional detail pages |
-| [Moco Timing Sync](https://github.com/dhuettner/moco-timing-sync) | Agency operations | Keeps the project structure from Moco in sync with the Timing app |
-| [Asana Task Creator](https://github.com/dhuettner/wpww-asana-task-creator) | Agency operations | Chrome extension for Asana tasks with sequential IDs, straight from the browser and Gmail |
+| [Waterproof.News](https://github.com/Waterproof-Web-Wizard-GmbH/neos-news) | Neos CMS 9 | News and blog: articles as document nodes, categories via taxonomy, Atom and RSS feed, JSON-LD |
+| [Waterproof.Team](https://github.com/Waterproof-Web-Wizard-GmbH/neos-team) | Neos CMS 9 | Team and people management with central maintenance and optional detail pages |
+| [Moco Timing Sync](https://github.com/Waterproof-Web-Wizard-GmbH/moco-timing-sync) | Agency operations | Keeps the project structure from Moco in sync with the Timing app |
+| [Asana Task Creator](https://github.com/Waterproof-Web-Wizard-GmbH/wpww-asana-task-creator) | Agency operations | Chrome extension for Asana tasks with sequential IDs, straight from the browser and Gmail |
 
 All packages are MIT licensed and ship structure rather than design, so they fit
 into an existing build instead of fighting it.
@@ -51,10 +51,10 @@ Agentur: **[waterproof-web-wizard.de](https://waterproof-web-wizard.de/)**
 
 | Paket | Für | Zweck |
 |---|---|---|
-| [Waterproof.News](https://github.com/dhuettner/neos-news) | Neos CMS 9 | News und Blog mit Kategorien, Feed und strukturierten Daten |
-| [Waterproof.Team](https://github.com/dhuettner/neos-team) | Neos CMS 9 | Team- und Personenverwaltung, zentral gepflegt |
-| [Moco Timing Sync](https://github.com/dhuettner/moco-timing-sync) | Agenturbetrieb | Hält die Projektstruktur aus Moco mit der Timing App synchron |
-| [Asana Task Creator](https://github.com/dhuettner/wpww-asana-task-creator) | Agenturbetrieb | Chrome-Erweiterung für Asana-Tickets mit fortlaufender ID |
+| [Waterproof.News](https://github.com/Waterproof-Web-Wizard-GmbH/neos-news) | Neos CMS 9 | News und Blog mit Kategorien, Feed und strukturierten Daten |
+| [Waterproof.Team](https://github.com/Waterproof-Web-Wizard-GmbH/neos-team) | Neos CMS 9 | Team- und Personenverwaltung, zentral gepflegt |
+| [Moco Timing Sync](https://github.com/Waterproof-Web-Wizard-GmbH/moco-timing-sync) | Agenturbetrieb | Hält die Projektstruktur aus Moco mit der Timing App synchron |
+| [Asana Task Creator](https://github.com/Waterproof-Web-Wizard-GmbH/wpww-asana-task-creator) | Agenturbetrieb | Chrome-Erweiterung für Asana-Tickets mit fortlaufender ID |
 
 Beide Neos-Pakete stehen unter MIT und liefern Struktur statt Design. Sie fügen
 sich in einen bestehenden Frontend-Build ein, statt ihn zu ersetzen.
